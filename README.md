@@ -1,7 +1,8 @@
 ### Automatic landmark detection on Tsetse fly wing images
 ## Aim
 create an algorthm to indetify landmark no.7 for this project. The rest will be for masters project
-![Tsetse fly with landmarks](link-to-image)
+
+![Tsetse fly with landmarks](LANDMARKS.png)
 
 ## Basic outline
 
