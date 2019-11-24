@@ -1,4 +1,4 @@
-# Tsetse-fly-project
+# Automatic landmark detection on Tsetse fly wing images
 
 Basic outline
 
