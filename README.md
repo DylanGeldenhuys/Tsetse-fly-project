@@ -1,6 +1,6 @@
 ### Automatic landmark detection on Tsetse fly wing images
 ## Aim
-create an algorthm to indetify landmark no.7 for this project. The rest will be for masters project
+Create an algorthm to indentify landmark no.7 for this project. The rest will be for masters project.
 
 ![Tsetse fly with landmarks](LANDMARKS.png)
 
@@ -21,7 +21,7 @@ to obtain the samples and labels for each image
 
 ...................................................
 
-(Curating raw data)
+(Curating raw data) - these details were only used to record methodolody during experimentation.
 
 Plotting_landmarks.ipynb: was used to create a dataset of all the images with their landmark plotted, this was then used to manually curate the data (taking out mismatches). It outputs into the file \imageWithLandmarks 
 
